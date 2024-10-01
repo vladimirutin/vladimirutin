@@ -1,16 +1,36 @@
-## Hi there 👋
+# Vladimir Utin
 
-<!--
-**vladimirutin/vladimirutin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Vladimir Utin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimirutin&show_icons=true&theme=radical)](https://github.com/vladimirutin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Vladimir Utin, a highly motivated and dedicated professional with passion 
+
+## About Me
+
+As a Computer Engineer, I've had the opportunity to work on various projects, including [Robotics and Programming]. 
+
+[![Vladimir Utin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirutin&layout=compact&theme=radical)](https://github.com/vladimirutin)
+
+## Skills
+
+* 
+
+## Experience
+
+* 
+* 
+
+
+## Projects
+
+* 
+* 
+
+## Contact Me
+
+* GitHub: [@vladimirutin](https://github.com/vladimirutin)
+* Email: [sasamjimvincent@gmail.com]
+* LinkedIn: [www.linkedin.com/in/vlad-utin-2b30b2180]
+
+
+[![Vladimir Utin's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vladimirutin&theme=radical&row=1)](https://github.com/vladimirutin)
