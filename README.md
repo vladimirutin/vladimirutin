@@ -29,7 +29,7 @@ As a Computer Engineer, I've had the opportunity to work on various projects, in
 ## Contact Me
 
 * Email: [Gmail](mailto:sasamjimvincent@gmail.com)
-* LinkedIn: [Linkedin](www.linkedin.com/in/vlad-utin-2b30b2180)
+* LinkedIn: [Linkedin](https://www.linkedin.com/in/vlad-utin-2b30b2180)
 
 
 [![Vladimir Utin's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=vladimirutin&theme=radical&row=1)](https://github.com/vladimirutin)
